@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Gwén
 
+[![gdetourn's 42 stats](https://badge42.coday.fr/api/v2/clvc6erwr2003401p4pxhxpfsu/stats?cursusId=21&coalitionId=317)](https://github.com/Coday-meric/badge42)
+
 ## 🗂️ My 42 projects
 
 [![libft](src/libft.png)](https://github.com/SciGWood/42_libft)
