@@ -17,8 +17,8 @@ I'm Gwén, student @ 42 Perpignan (France)
 <a href="https://github.com/SciGWood/42_Philosophers">![42 Badge](https://github.com/SciGWood/SciGWood/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/SciGWood/42_Cub3D">![42 Badge](https://github.com/SciGWood/SciGWood/blob/main/42_badges/cub3de.png)</a>
 <a ![42 Badge](https://github.com/SciGWood/SciGWood/blob/main/42_badges/netpracticee.png)</a>
-<a href="https://github.com/mcombeau/Cpp_Modules">![42 Badge](https://github.com/SciGWood/SciGWood/blob/main/42_badges/cppe.png)</a>
-<a href="https://github.com/mcombeau/inception">![42 Badge](https://github.com/SciGWood/SciGWood/blob/main/42_badges/inceptione.png)</a>
+<a href="https://github.com/SciGWood/42_CPP">![42 Badge](https://github.com/SciGWood/SciGWood/blob/main/42_badges/cppe.png)</a>
+<a href="https://github.com/SciGWood/42_Inception">![42 Badge](https://github.com/SciGWood/SciGWood/blob/main/42_badges/inceptione.png)</a>
 <!--<a href="https://github.com/SciGWood/Born2beroot">![42 Badge](https://github.com/SciGWood/SciGWood/blob/main/42_badges/born2beroote.png)</a>
 <a href="https://github.com/mcombeau/ft_irc">![42 Badge](https://github.com/SciGWood/SciGWood/blob/main/42_badges/ft_irce.png)</a>
 <a href="https://github.com/mcombeau/ft_transcendance">![42 Badge](https://github.com/SciGWood/SciGWood/blob/main/42_badges/ft_transcendencee.png)</a>-->
