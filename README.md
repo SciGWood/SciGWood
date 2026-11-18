@@ -5,7 +5,7 @@ I'm Gwén, student @ 42 Perpignan (France)
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=1xZzwgwi1Sc">![42 - Stage post-tronc-commun ]</a>
-<\div>
+</div>
 
 <p align=center><a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clvc6erwr2003401p4pxhxpfsu/stats?cursusId=21&coalitionId=317" alt="gdetourn's 42 stats" /></a></p>
 
