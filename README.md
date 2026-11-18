@@ -4,7 +4,9 @@ I'm Gwén, student @ 42 Perpignan (France)
 ## 🗂️ My 42 internship
 
 <div align="center">
-<a href="https://youtube.com/watch?v=1xZzwgwi1Sc">(https://github.com/SciGWood/SciGWood/blob/main/video_stage.png)</a>
+<a href="https://youtube.com/watch?v=1xZzwgwi1Sc">
+  <img src="https://github.com/SciGWood/SciGWood/main/video_stage.png" alt="Vidéo de présentation du stage" width="600">
+</a>
 </div>
 
 <!-- <p align=center><a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clvc6erwr2003401p4pxhxpfsu/stats?cursusId=21&coalitionId=317" alt="gdetourn's 42 stats" /></a></p> -->
