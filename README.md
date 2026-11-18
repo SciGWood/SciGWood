@@ -5,7 +5,7 @@ I'm Gwén, student @ 42 Perpignan (France)
 
 <div align="center">
 <a href="https://youtube.com/watch?v=1xZzwgwi1Sc">
-  <img src="https://github.com/SciGWood/SciGWood/main/video_stage.png" alt="Vidéo de présentation du stage" width="600">
+  <img src="https://raw.githubusercontent.com/SciGWood/SciGWood/main/video_stage.png" alt="Vidéo de présentation du stage" width="600">
 </a>
 </div>
 
